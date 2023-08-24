@@ -1,1 +1,2 @@
-# ml-data-anomaly-fixes
+# Data Anomaly Fixes Repository
+Welcome to the Data Anomaly Fixes repository! This space is dedicated to addressing and rectifying common data anomalies, with a special focus on handling unbalanced datasets. Ensuring that your data is well-balanced and free from anomalies is crucial to developing robust machine learning models.
